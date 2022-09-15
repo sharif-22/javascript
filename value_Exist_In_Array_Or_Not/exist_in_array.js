@@ -10,4 +10,4 @@ let indexOfFruit=arrayFruits.indexOf(findFruit)
 
 //  indexof() return -1 it execute else 
 indexOfFruit>=0 ? console.log(`${arrayFruits[indexOfFruit]} is exist `) : console.log(`${findFruit} is not found`)
-// {arrayFruit[index number ]}
+// {arrayFruit[index number ]} output : CHERRY is exist 
