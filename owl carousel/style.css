@@ -1,0 +1,53 @@
+/* our content  */
+
+.child {
+  height: 200px;
+  text-align: center;
+  background-color: rgb(132, 88, 168);
+}
+
+/* owl stuff */
+
+/*it is the main div which hold all the owl css/jquery /js things    
+
+.owl-carousel {
+}
+
+/* stage is used to move the content div  
+
+.owl-stage {
+}
+
+/* it holds the child class { which we give your content || img etcc} 
+
+.owl-item {
+}
+
+/* left right  button click to next || previous */
+.owl-nav {
+  display: none;
+}
+
+/* dots div  */
+.owl-dots {
+  display: flex !important;
+  justify-content: center !important;
+  align-items: center !important;
+}
+
+/* individuval dot div */
+.owl-dot {
+  width: 8px;
+  height: 8px !important;
+  background-color: #000000 !important;
+  border-radius: 100% !important;
+  margin: 2px !important;
+}
+
+/* dot which is in active  */
+.owl-dot.active {
+  width: 31px !important;
+  height: 8px !important;
+  background-color: #ff0000 !important;
+  border-radius: 4px !important;
+}
